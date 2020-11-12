@@ -8,8 +8,8 @@ keep waiting :p
  # heading 1
  ## heading 2 ...
  
- _Italics_ 
+  _Italics_ 
  
- **Strong/Bold**
+  **Strong/Bold**
  
- ~~1000~~ **999**
+  ~~1000~~ **999**
