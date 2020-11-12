@@ -24,7 +24,7 @@ Use `for` loop
 
 ``` javascript 
 
-var name = "hitesh";
+var name = "106_Sam";
 console.log(name)
 
 ```
