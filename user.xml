@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <userid>Sami</userid>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>Sohan</userid>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>Suresh</userid>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>Vishal</userid>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>Sandeep</userid>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>Kaushik</userid>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>Aditya</userid>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>Privithi</userid>
+        <password>123</password>
+    </user>
+</users>
+
